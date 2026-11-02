@@ -1,0 +1,11 @@
+Telegram4D
+Copyright 2026 Shaahin Ashayeri
+
+This product includes software developed by Shaahin Ashayeri
+(https://github.com/DelphiMan68/Telegram4D).
+
+Telegram4D is an unofficial library and is not affiliated with, endorsed by,
+or sponsored by Telegram Messenger Inc.
+
+Telegram4D requires JsonDataObjects (https://github.com/ahausladen/JsonDataObjects),
+which is not part of this distribution and is licensed separately by its author.
